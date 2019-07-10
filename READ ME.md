@@ -8,6 +8,8 @@ http://qaru.site/questions/2315155/creating-a-simple-chat-application-in-python-
 
 https://medium.com/swlh/lets-write-a-chat-app-in-python-f6783a9ac170
 
+https://www.coursera.org/learn/python-network-data/home/week/3
+
 mb smth else
 
 libs:
